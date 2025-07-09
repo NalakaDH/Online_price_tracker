@@ -1,0 +1,61 @@
+2025-07-06 22:13:47,033 - INFO - Starting comprehensive web scraping process...
+2025-07-06 22:13:47,034 - INFO - This will scrape ALL pages from each category on each site
+2025-07-06 22:13:47,035 - INFO - ################################################################################
+2025-07-06 22:13:47,035 - INFO - STARTING SITE: BIGDEALS
+2025-07-06 22:13:47,036 - INFO - ################################################################################
+2025-07-06 22:13:47,036 - INFO - ============================================================
+2025-07-06 22:13:47,037 - INFO - Starting comprehensive scraping for TV on bigdeals
+2025-07-06 22:13:47,037 - INFO - ============================================================
+2025-07-06 22:13:47,040 - INFO - Detecting total pages for: https://bigdeals.lk/tv
+2025-07-06 22:13:49,528 - INFO - Successfully fetched: https://bigdeals.lk/tv?page=1
+2025-07-06 22:13:49,538 - INFO - BigDeals detected pages: 1
+2025-07-06 22:13:49,539 - INFO - Detected 1 pages for TV on bigdeals
+2025-07-06 22:13:49,539 - INFO - Scraping page 1: https://bigdeals.lk/tv?page=1
+2025-07-06 22:13:53,373 - INFO - Successfully fetched: https://bigdeals.lk/tv?page=1
+2025-07-06 22:13:53,379 - WARNING - No product links found on page 1
+2025-07-06 22:13:58,132 - INFO - Page 1 completed. Products scraped: 0
+2025-07-06 22:13:58,133 - INFO - Completed TV on bigdeals
+2025-07-06 22:13:58,133 - INFO - Total pages scraped: 1
+2025-07-06 22:13:58,134 - INFO - Total products scraped: 0
+2025-07-06 22:13:58,134 - INFO - ============================================================
+2025-07-06 22:14:05,029 - INFO - ============================================================
+2025-07-06 22:14:05,030 - INFO - Starting comprehensive scraping for Laptop on bigdeals
+2025-07-06 22:14:05,031 - INFO - ============================================================
+2025-07-06 22:14:05,031 - INFO - Detecting total pages for: https://bigdeals.lk/laptops
+2025-07-06 22:14:07,116 - INFO - Successfully fetched: https://bigdeals.lk/laptops?page=1
+2025-07-06 22:14:07,119 - INFO - BigDeals detected pages: 1
+2025-07-06 22:14:07,119 - INFO - Detected 1 pages for Laptop on bigdeals
+2025-07-06 22:14:07,119 - INFO - Scraping page 1: https://bigdeals.lk/laptops?page=1
+2025-07-06 22:14:11,766 - INFO - Successfully fetched: https://bigdeals.lk/laptops?page=1
+2025-07-06 22:14:11,771 - WARNING - No product links found on page 1
+2025-07-06 22:14:16,725 - INFO - Page 1 completed. Products scraped: 0
+2025-07-06 22:14:16,726 - INFO - Completed Laptop on bigdeals
+2025-07-06 22:14:16,727 - INFO - Total pages scraped: 1
+2025-07-06 22:14:16,727 - INFO - Total products scraped: 0
+2025-07-06 22:14:16,728 - INFO - ============================================================
+2025-07-06 22:14:26,682 - INFO - ============================================================
+2025-07-06 22:14:26,683 - INFO - Starting comprehensive scraping for Mobile on bigdeals
+2025-07-06 22:14:26,683 - INFO - ============================================================
+2025-07-06 22:14:26,683 - INFO - Detecting total pages for: https://bigdeals.lk/mobile_phones
+2025-07-06 22:14:28,444 - INFO - Successfully fetched: https://bigdeals.lk/mobile_phones?page=1
+2025-07-06 22:14:28,450 - INFO - BigDeals detected pages: 1
+2025-07-06 22:14:28,450 - INFO - Detected 1 pages for Mobile on bigdeals
+2025-07-06 22:14:28,450 - INFO - Scraping page 1: https://bigdeals.lk/mobile_phones?page=1
+2025-07-06 22:14:31,972 - INFO - Successfully fetched: https://bigdeals.lk/mobile_phones?page=1
+2025-07-06 22:14:31,977 - WARNING - No product links found on page 1
+2025-07-06 22:14:37,965 - INFO - Page 1 completed. Products scraped: 0
+2025-07-06 22:14:37,965 - INFO - Completed Mobile on bigdeals
+2025-07-06 22:14:37,966 - INFO - Total pages scraped: 1
+2025-07-06 22:14:37,966 - INFO - Total products scraped: 0
+2025-07-06 22:14:37,967 - INFO - ============================================================
+2025-07-06 22:14:44,613 - INFO - SITE BIGDEALS COMPLETED. Total products: 0
+2025-07-06 22:14:58,559 - INFO - ################################################################################
+2025-07-06 22:14:58,560 - INFO - STARTING SITE: SINGER
+2025-07-06 22:14:58,561 - INFO - ################################################################################
+2025-07-06 22:14:58,561 - INFO - ============================================================
+2025-07-06 22:14:58,562 - INFO - Starting comprehensive scraping for TV on singer
+2025-07-06 22:14:58,562 - INFO - ============================================================
+2025-07-06 22:14:58,563 - INFO - Detecting total pages for: https://www.singersl.com/products/entertainment/television
+2025-07-06 22:15:00,848 - WARNING - Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)'))': /products/entertainment/television?page=1
+2025-07-06 22:15:05,243 - WARNING - Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)'))': /products/entertainment/television?page=1
+2025-07-06 22:15:13,648 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)'))': /products/entertainment/television?page=1

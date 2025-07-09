@@ -1,0 +1,1 @@
+pip install Flask Flask-Mail Flask-Bcrypt Flask-JWT-Extended Flask-MySQLdb Flask-CORS python-dotenv requests beautifulsoup4 lxml
